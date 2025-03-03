@@ -6,4 +6,4 @@
 
 🛠️ Tech: Python | Java | R | SQL | React | PyTorch | AWS | Git  
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/orazaly)
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/orazaly) | kabdrakhmanov@berkeley.edu
