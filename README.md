@@ -6,6 +6,6 @@
 
 🚀 Building projects in Python, Java, and JavaScript  
 
-🛠️ Tech: Python | Java | R | SQL | React | PyTorch | AWS | Git  
+🛠️ Tech: Python | Java | R | SQL | React | PyTorch | AWS 
 
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/orazaly) | kabdrakhmanov@berkeley.edu
